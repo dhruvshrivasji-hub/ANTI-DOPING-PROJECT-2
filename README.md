@@ -10,8 +10,8 @@ Features:
 - Show live dashboard
 
 Tech stack:
-Frontend: HTML, CSS, JS
-Backend:  Python
-Database: MySQL
-AI: Python
-Realtime: Firebase / Socket
+- Frontend: HTML, CSS, JS
+- Backend:  Python
+- Database: MySQL
+- AI: Python
+- Realtime: Firebase / Socket
