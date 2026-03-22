@@ -11,7 +11,7 @@ Features:
 
 Tech stack:
 Frontend: HTML, CSS, JS
-Backend: Node.js / Python
-Database: MongoDB / MySQL
+Backend:  Python
+Database: MySQL
 AI: Python
 Realtime: Firebase / Socket
